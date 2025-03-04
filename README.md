@@ -4,7 +4,7 @@ Juan Camilo Jarro Laiton
 Yohan Steven Jiménez Hilarión
 
 Instrucciones:
-1. Inicio del Juego
+🔹1. Inicio del Juego
 Cada jugador tiene 4 fichas de un color: ROJO, AZUL, VERDE o AMARILLO.
 Las fichas empiezan en la casa de su color.
 El tablero tiene un recorrido de 68 casillas comunes, más la zona final para cada jugador.
