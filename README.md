@@ -57,3 +57,6 @@ Gana el jugador que logre llevar sus 4 fichas a la meta primero.
 Haz clic en los dados para lanzarlos.
 Haz clic en una ficha para seleccionarla y moverla con un dado disponible.
 Observa la información del turno en pantalla para saber qué hacer.
+
+video explicativo: 
+https://youtu.be/Md6TRtEqpqs
