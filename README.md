@@ -1,6 +1,6 @@
 # Parques-PC18
 Proyecto Final Programación de computadores
-Juan Camilo Jarro Laiton
+Juan Camilo Jarro Laiton y
 Yohan Steven Jiménez Hilarión
 
 Instrucciones:
